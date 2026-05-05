@@ -42,7 +42,4 @@ Run `test_checkmygrade.py` to validate:
 - Student/course/professor CRUD operations
 - Sorting and searching performance
 - CSV data integrity
-  
-# License
 
-This project is created by Sanjana for educational purposes at San José State University.
